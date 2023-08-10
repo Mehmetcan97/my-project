@@ -4,7 +4,7 @@
     <ul>
        
       <li><nuxt-link to="/page1">Page 2</nuxt-link></li>
-      <li><nuxt-link to="/page2">Page 3</nuxt-link></li>
+      <li><nuxt-link to="/page2">Page 4</nuxt-link></li>
     </ul>
   </div>
 </template>
